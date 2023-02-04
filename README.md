@@ -12,13 +12,12 @@ NOTE:
       
 <img alt="Transcription of Musical Offering on violin" src="https://user-images.githubusercontent.com/64146871/216738125-b7504bba-3721-478f-858c-5aed1fde5747.png" height="450" width="auto" title="Musical Offering on violin (Frame-level Transcription)">
 
-
-![Transcription of Jupiter on violin](https://user-images.githubusercontent.com/64146871/216738068-7cb64049-dab6-475f-9887-7bce1b751162.png "An excerpt of Jupiter on violin (Frame-level Transcription)")
+<img alt="Transcription of Jupiter on violin" src="https://user-images.githubusercontent.com/64146871/216738068-7cb64049-dab6-475f-9887-7bce1b751162.png" height="450" width="auto" title="An excerpt of Jupiter on violin (Frame-level Transcription)">
 
 ### Note-level:
 NOTE: 
 - Each dot marks the beginning of a single note
-![Transcription of The Alphabet Song on piano](https://user-images.githubusercontent.com/64146871/216738014-ff3dddd1-638f-48de-a83d-cf06fdac6ca0.jpg "The Alphabet Song on piano (Note-level Transcription)")
+<img alt="Transcription of Alphabet Song on piano" src="https://user-images.githubusercontent.com/64146871/216738014-ff3dddd1-638f-48de-a83d-cf06fdac6ca0.jpg" height=400" width="auto" title="The Alphabet Song on piano (Note-level Transcription)">
 
 ## Current issues:
 - Onset detection is not optimal enough for string instruments or wind instruments, whose onset/change of pitch tend to be very soft.
