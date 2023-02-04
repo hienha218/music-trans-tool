@@ -17,7 +17,8 @@ NOTE:
 ### Note-level:
 NOTE: 
 - Each dot marks the beginning of a single note
-<img alt="Transcription of Alphabet Song on piano" src="https://user-images.githubusercontent.com/64146871/216738014-ff3dddd1-638f-48de-a83d-cf06fdac6ca0.jpg" height=400" width="auto" title="The Alphabet Song on piano (Note-level Transcription)">
+
+<img alt="Transcription of Alphabet Song on piano" src="https://user-images.githubusercontent.com/64146871/216738014-ff3dddd1-638f-48de-a83d-cf06fdac6ca0.jpg" height="400" width="auto" title="The Alphabet Song on piano (Note-level Transcription)">
 
 ## Current issues:
 - Onset detection is not optimal enough for string instruments or wind instruments, whose onset/change of pitch tend to be very soft.
