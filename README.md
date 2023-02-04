@@ -10,7 +10,7 @@ NOTE:
 - Each dot is an F0 estimation of a frame, a line of dots is a note
 - Red dot is the ground truth, blue dot is the transcription
       
-<img alt="Transcription of Musical Offering on violin" src="https://user-images.githubusercontent.com/64146871/216738125-b7504bba-3721-478f-858c-5aed1fde5747.png" height="550" width="auto" title="Musical Offering on violin (Frame-level Transcription)">
+<img alt="Transcription of Musical Offering on violin" src="https://user-images.githubusercontent.com/64146871/216738125-b7504bba-3721-478f-858c-5aed1fde5747.png" height="450" width="auto" title="Musical Offering on violin (Frame-level Transcription)">
 
 
 ![Transcription of Jupiter on violin](https://user-images.githubusercontent.com/64146871/216738068-7cb64049-dab6-475f-9887-7bce1b751162.png "An excerpt of Jupiter on violin (Frame-level Transcription)")
